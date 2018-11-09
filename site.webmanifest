@@ -1,0 +1,42 @@
+{
+    "name": "Cahaya Mitra Tour & Travel",
+    "short_name": "Cahaya Mitra",
+	"description": "Dream - Explore - Discover",
+    "icons": [{
+    "src": "https://raw.githubusercontent.com/babinx/cahayamitra/master/icon-128x128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "https://raw.githubusercontent.com/babinx/cahayamitra/master/apple-touch-icon.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "https://raw.githubusercontent.com/babinx/cahayamitra/master/ms-touch-icon-144x144-precomposed.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "https://raw.githubusercontent.com/babinx/cahayamitra/master/chrome-touch-icon-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+        {
+            "src": "https://raw.githubusercontent.com/babinx/cahayamitra/master/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+	"orientation": "any",
+	"scope": "/",
+	"lang": "id-ID",
+    "theme_color": "#FF6600",
+    "background_color": "#000000",
+    "display": "standalone"
+	"start_url": "/"
+	"screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/babinx/cahayamitra/master/ss1.PNG",
+      "sizes": "1280x650",
+      "type": "image/png"
+    }
+  ]
+}
